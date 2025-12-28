@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Speech to Text</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+</head>
+<body>
+  <div class="container">
+    <h1>🎙 Speech-to-Text Web Application</h1>
+    <p class="subtitle">
+      Real-time speech recognition using Azure Cognitive Services
+    </p>
+
+    <div class="controls">
+      <button id="start" class="btn start">Start Recording</button>
+      <button id="stop" class="btn stop">Stop Recording</button>
+    </div>
+
+    <label for="output">Transcription</label>
+    <textarea id="output" rows="10" readonly>
+Waiting...
+    </textarea>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
