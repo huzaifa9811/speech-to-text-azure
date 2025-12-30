@@ -44,21 +44,24 @@ Click Stop Recording when done
 🌍 Language optimized for English (India)
 
 
-# 📸 Demo
+# 📸 Demo Screenshots
 
-You can record a short screen video showing:
+## ▶️ Clicking Start Recording
+![Clicking Start Recording](image-1.png)
 
-Clicking Start Recording
-Speaking
-Live text appearing
-Stopping recording
-(This is enough for Ready.io submission)
+### 🎙 Live Speech Recognition
+![Live speech recognition](image-2.png)
+- Words appear in real time while speaking
+- Transcription is stored and not erased
+- Supports continuous recognition
 
+### ⏹ Stopping Recording
+- Final recognized text remains visible
 
 👤 Author
 
 Mohd Huzaifa
-3rd Year Civil Engineering, NIT Delhi
+4th Year (CE/minor in AI-ML), NIT Delhi
 🔗 GitHub: https://github.com/huzaifa9811
 
 📄 License
